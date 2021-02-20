@@ -1,2 +1,0 @@
-# awesomeWDB.github.io
-awesome!
